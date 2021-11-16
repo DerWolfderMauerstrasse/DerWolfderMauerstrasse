@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @DerWolfderMauerstrasse
-- 👀 I’m interested in a Relationship
-- 🌱 I’m currently learning Relationships
-- 💞️ I’m looking to collaborate on a Relationship
-- 📫 How to reach me: Do not
 
 :(
 
